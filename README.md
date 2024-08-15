@@ -15,18 +15,12 @@ The 3D Pokedex AR App is an immersive augmented reality application that brings 
 - **Swift:** The primary programming language used for iOS development.
 - **Xcode:** The integrated development environment (IDE) used for building and running the app.
 
-## Third-Party Libraries Used
-- **Firebase:** Used for real-time data storage and user authentication.
-- **Alamofire:** A robust networking library that simplifies making HTTP requests.
-- **SDWebImage:** Provides an asynchronous image downloader with cache support.
-- **SwiftyJSON:** A library for handling JSON data in Swift.
-
 ## Installation
 
 To install and run the 3D Pokedex AR App on your local machine, follow these steps:
 
 ### Clone the Repository:
-git clone https://github.com/yourusername/poke3d.git
+git clone https://github.com/Kanha-Dev/Poke3D.git
 
 ### Open in Xcode:
 Open the `Poke3D.xcodeproj` file in Xcode.
